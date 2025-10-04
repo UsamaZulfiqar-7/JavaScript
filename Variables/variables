@@ -1,0 +1,5 @@
+let fullName = "Rana Usama";      // Variables cannot be re-declared but can be updated.
+
+var age = 21;                    // Variables can be re-declared and updated.
+
+const a = 10;                   // Variables cannot be re-declared or updated.
