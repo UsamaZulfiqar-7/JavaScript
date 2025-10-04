@@ -1,0 +1,27 @@
+// ........First Type.........
+
+let age = 24  ;  //  Number
+
+//........Second Type........
+
+let fullName = "Ran Usama"  //  String
+
+//........Third Type.........
+
+isFollow = True ;   //     Boolean
+
+//........Fourth Type.........
+
+let x  ;      // Undefined 
+
+//.........Fifth Type........
+
+let x = null ;  //      Null
+
+//.........Sixth Type........  
+
+let x = BigInt("123");   //   BigInt
+
+//........Seventh Type........
+
+let y = Symbol("Hello");  //   Symbol
