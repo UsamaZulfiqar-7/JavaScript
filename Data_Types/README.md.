@@ -1,0 +1,10 @@
+# Java Script Basics 
+This Repository contains examples of JavaScript datatypes.
+## Datatypes covered
+-Number
+-String
+-Boolean
+-Undefined
+-Null
+-BigInt
+-Symbol
